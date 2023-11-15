@@ -1,0 +1,13 @@
+<?php
+
+return [
+    "database"=>[
+        "username"=>"YOUR_MYSQL_USERNAME",
+        "password"=>"",
+        "dbName"=>"YOUR_MYSQL_DBNAME",
+        "host"=>"YOUR_MYSQL_HOST"
+    ]
+    ];
+
+
+?>
